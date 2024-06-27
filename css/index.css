@@ -94,3 +94,17 @@ body {
   font-family: "Open Sans";
 }
 
+.project {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.project h2 {
+  margin-top: 0;
+}
+
+.project p {
+  margin-bottom: 0;
+}
